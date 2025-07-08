@@ -1,1 +1,1 @@
-# Deep-RL-Hugging-Face
+# Hugging-Face-Course
